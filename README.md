@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
