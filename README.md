@@ -69,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0069-sqrtx) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
