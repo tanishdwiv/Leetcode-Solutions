@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0907-koko-eating-bananas](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
