@@ -113,16 +113,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Sorting
 |  |
@@ -156,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
