@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0890-lemonade-change) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
