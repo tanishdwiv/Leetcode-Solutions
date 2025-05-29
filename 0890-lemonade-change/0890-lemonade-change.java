@@ -5,7 +5,7 @@ class Solution {
             if(bills[i]==5){
                 five++;
             }
-            else if(bills[i]==10){
+            else if(bills[i]==10){//10 wale ke liye
                 if(five>=1){
                     five--;
                     ten++;
@@ -14,7 +14,7 @@ class Solution {
                 return false;
                 }
             }
-            else {
+            else {//for 20 wala
                 if(five >=1 && ten>=1){
                     five--;
                     ten--;
