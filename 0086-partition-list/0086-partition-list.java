@@ -33,7 +33,7 @@ class Solution {
 
             }
         }
-        t1.next=dummy2.next;
+        t1.next=dummy2.next;//dummy2 ke next se because pehli -1 value hogi
         return dummy1.next;
     }
 }
