@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0621-task-scheduler) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
