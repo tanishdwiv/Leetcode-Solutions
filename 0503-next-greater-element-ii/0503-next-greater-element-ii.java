@@ -23,9 +23,9 @@ class Solution {
             int index=i%n;
             while(!stack.isEmpty() && stack.peek()<=nums[index]){
                 stack.pop();
-            }
+            }if(i<n){
             res[index]=stack.isEmpty()?-1:stack.peek();
-          
+            }
             stack.push(nums[index]);
         }
         
