@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
