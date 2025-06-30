@@ -9,7 +9,7 @@
 class Solution {
     public void deleteNode(ListNode node) {
         
-        node.val=node.next.val;
-        node.next=node.next.next;
+        node.val=node.next.val;//next node ki value copy kro
+        node.next=node.next.next;//next node ko skip krdo 
     }
 }
