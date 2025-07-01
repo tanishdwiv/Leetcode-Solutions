@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
