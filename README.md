@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
