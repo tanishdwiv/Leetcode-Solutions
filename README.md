@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Queue
