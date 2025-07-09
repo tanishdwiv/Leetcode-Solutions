@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
