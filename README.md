@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -162,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
