@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
+| [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
+| [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Tree
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
+| [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
+| [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
+## Prefix Sum
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
