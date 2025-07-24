@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
