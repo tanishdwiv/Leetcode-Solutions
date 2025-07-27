@@ -25,8 +25,6 @@ PriorityQueue<Integer> minheap; //i am taking this minheap beacause it will stor
 // if(!minheap.isEmpty() && (minheap.peek()>=stacks.size() || stacks.get(minheap.peek()).size()==this.capacity)){
 //     minheap.poll();
 // }
-
-
 while (!minheap.isEmpty()) {
             int idx = minheap.peek();
             
