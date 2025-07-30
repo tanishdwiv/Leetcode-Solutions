@@ -5,7 +5,7 @@ class SeatManager {
     public SeatManager(int n) {
         this.number=n;
         this.minheap=new PriorityQueue<>();
-        for(int i=1;i<=this.number;i++){
+        for(int i=1;i<=number;i++){
             minheap.offer(i);
         }
     }
