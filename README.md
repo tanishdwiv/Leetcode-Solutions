@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1270-dinner-plate-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1270-dinner-plate-stacks) |
 | [1499-maximum-performance-of-a-team](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1794-minimize-deviation-in-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1794-minimize-deviation-in-array) |
+| [1955-seat-reservation-manager](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1962-single-threaded-cpu) |
 ## Quickselect
 |  |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1270-dinner-plate-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1270-dinner-plate-stacks) |
+| [1955-seat-reservation-manager](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
