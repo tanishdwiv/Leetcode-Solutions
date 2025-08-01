@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1794-minimize-deviation-in-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1962-single-threaded-cpu) |
+| [2058-concatenation-of-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2058-concatenation-of-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2058-concatenation-of-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Tree
 |  |
