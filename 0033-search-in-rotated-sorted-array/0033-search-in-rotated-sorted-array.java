@@ -43,7 +43,7 @@ class Solution {
                 else
                start=mid+1;
             }
-            else//going to right sorted pART
+            else //going to right sorted pART
             {
                 if(arr[mid]<=target && target<=arr[end])
                 start=mid+1;
