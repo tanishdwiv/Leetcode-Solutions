@@ -4,10 +4,10 @@ class Solution {
         int totalMoney = 0;
         int amountToDeposit = 1; // This is the money we put in each day.
 
-        // We loop from the first day up to the n-th day.
+      
         for (int day = 1; day <= n; day++) {
             
-            // Add today's deposit to our total.
+           
             totalMoney += amountToDeposit;
 
             // Now, we get ready for tomorrow.
