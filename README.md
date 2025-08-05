@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
