@@ -4,7 +4,7 @@ class Solution {
         if (n == 1) {
             return true;
         } 
-        else if (n==4) {
+        else if (n<=6) {
             return false;
         }
          else {
