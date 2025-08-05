@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
