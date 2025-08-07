@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0069-sqrtx) |
