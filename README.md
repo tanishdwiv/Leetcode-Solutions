@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -465,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1794-minimize-deviation-in-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1794-minimize-deviation-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
