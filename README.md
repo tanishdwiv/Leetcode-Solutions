@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1580-shuffle-the-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1794-minimize-deviation-in-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1794-minimize-deviation-in-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1499-maximum-performance-of-a-team](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
