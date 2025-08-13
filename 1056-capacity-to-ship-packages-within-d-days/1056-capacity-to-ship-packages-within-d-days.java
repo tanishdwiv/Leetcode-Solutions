@@ -24,12 +24,12 @@ class Solution {
         int load=0;
        int noofdays=1;
         for(int i=0;i<weights.length;i++){
-        if(load+weights[i]>capacity){
-            noofdays++;
-            load=weights[i];
+        if(load+weights[i]<=capacity){
+            load+=weights[i];
         }
         else{
-            load=load+weights[i];
+           noofdays++;
+            load=weights[i];
         }
         }
         return noofdays;
