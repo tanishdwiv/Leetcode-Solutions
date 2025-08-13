@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
