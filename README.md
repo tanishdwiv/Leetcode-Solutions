@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1580-shuffle-the-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Combinatorics
 |  |
 | ------- |
