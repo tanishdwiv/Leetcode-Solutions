@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1962-single-threaded-cpu](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2058-concatenation-of-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2058-concatenation-of-array) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1794-minimize-deviation-in-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1794-minimize-deviation-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Stack
 |  |
