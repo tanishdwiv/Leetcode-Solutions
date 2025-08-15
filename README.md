@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0735-asteroid-collision) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0792-binary-search](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0890-lemonade-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0890-lemonade-change) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0735-asteroid-collision) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0778-reorganize-string) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0890-lemonade-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0937-online-stock-span](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0778-reorganize-string) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1014-k-closest-points-to-origin) |
