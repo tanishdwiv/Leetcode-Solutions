@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/tanishdwiv/DSA-Solutions/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/tanishdwiv/DSA-Solutions/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Monotonic Stack
 |  |
 | ------- |
