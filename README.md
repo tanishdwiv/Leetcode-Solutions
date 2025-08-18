@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0593-valid-square](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0593-valid-square) |
 | [0856-consecutive-numbers-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0856-consecutive-numbers-sum) |
+| [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Queue
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -507,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
