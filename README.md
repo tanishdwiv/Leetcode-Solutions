@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1025-minimum-cost-for-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Queue
 |  |
