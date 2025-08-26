@@ -4,7 +4,7 @@
 
 //     }
 //   public  int solve(int[] days,int[] costs,int currentindex){
-//         if(currentindex>days.length){
+//         if(currentindex>=days.length){
 //             return 0;
 //         }
 
@@ -20,7 +20,7 @@
 
 //        //if i buy day 30 pass
 //         int nextdayafter30=currentindex;
-//         while(nextdayafter30<days.length && days[nextdayafter7]<days[currentindex]+30){
+//         while(nextdayafter30<days.length && days[nextdayafter30]<days[currentindex]+30){
 //              nextdayafter30++;
 //         }
 //         int day30cost=costs[2]+solve(days,costs, nextdayafter30);
