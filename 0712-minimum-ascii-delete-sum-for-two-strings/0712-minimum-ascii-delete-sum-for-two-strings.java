@@ -2,7 +2,7 @@ class Solution {
     public int minimumDeleteSum(String s1, String s2) {
         int[][] memo = new int[s1.length()][s2.length()];
         for (int[] row : memo) {
-            Arrays.fill(row, -1); // -1 signifies "not yet computed".
+            Arrays.fill(row, -1); 
         }
         return solve(s1, 0, s2, 0,memo);
     }
