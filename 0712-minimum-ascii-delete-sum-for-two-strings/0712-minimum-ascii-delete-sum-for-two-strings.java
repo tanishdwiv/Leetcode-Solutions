@@ -15,8 +15,7 @@ class Solution {
             }
             return remainingSum;
         }
-
-        // Base Case 2: If s2 is exhausted, we must delete the rest of s1.
+ // Base Case 2: If s2 is exhausted, we must delete the rest of s1.
         if (j == s2.length()) {
             int remainingSum = 0;
             for (int k = i; k < s1.length(); k++) {
@@ -33,10 +32,10 @@ class Solution {
             return solve(s1, i + 1, s2, j + 1,memo);
         } else {
         
-            int deleteFromS1 = s1.charAt(i) + solve(s1, i + 1, s2, j,memo);
-            int deleteFromS2 = s2.charAt(j) + solve(s1, i, s2, j + 1,memo);
+            int deletefroms1 = s1.charAt(i) + solve(s1, i + 1, s2, j,memo);
+            int deletefroms2 = s2.charAt(j) + solve(s1, i, s2, j + 1,memo);
             
-            return memo[i][j]=Math.min(deleteFromS1, deleteFromS2);
+            return memo[i][j]=Math.min(deletefroms1, deletefroms2);
         }
     }
 }
