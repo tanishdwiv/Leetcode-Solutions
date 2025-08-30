@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1250-longest-common-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1250-longest-common-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Queue
 |  |
