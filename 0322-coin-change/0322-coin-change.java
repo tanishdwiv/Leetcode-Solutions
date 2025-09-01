@@ -10,7 +10,7 @@ class Solution {
 
         return (result >=Integer.MAX_VALUE) ? -1 : result;
     }
- private int solve(int[] coins, int index, int amount, int[][] memo) {
+ int solve(int[] coins, int index, int amount, int[][] memo) {
      if (amount == 0) {
             return 0;
         }
