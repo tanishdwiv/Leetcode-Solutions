@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1580-shuffle-the-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1794-minimize-deviation-in-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1794-minimize-deviation-in-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1499-maximum-performance-of-a-team](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1962-single-threaded-cpu](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
