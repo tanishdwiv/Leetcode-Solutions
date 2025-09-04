@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0198-house-robber) |
