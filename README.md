@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1140-distant-barcodes) |
 | [1270-dinner-plate-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1270-dinner-plate-stacks) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## String
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
