@@ -583,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1236-n-th-tribonacci-number) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
