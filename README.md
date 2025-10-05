@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -587,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1916-find-center-of-star-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
