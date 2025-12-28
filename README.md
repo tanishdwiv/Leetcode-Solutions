@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
