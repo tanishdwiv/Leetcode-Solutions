@@ -29,8 +29,6 @@ class Solution {
             maxright=height[i];
         }
         return water;
-        
-       
 
     }
 }
