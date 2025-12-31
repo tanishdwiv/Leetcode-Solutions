@@ -10,8 +10,7 @@ class Solution {
             //iam checking if it does not contains in the set ,if it doesnt than i will add that character and increase right pointer
             if(!set.contains(s.charAt(right))){
                 set.add(s.charAt(right));
-                right++;
-            
+                right++; 
             max=Math.max(max,right-left);
             }
             else{
@@ -22,7 +21,6 @@ class Solution {
             }
         }
         return max;
-
-        
+       
     }
 }
