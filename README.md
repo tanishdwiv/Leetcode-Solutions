@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0969-number-of-recent-calls) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tanishdwiv/DSA-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
