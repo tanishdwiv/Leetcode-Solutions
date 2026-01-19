@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0344-reverse-string) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
