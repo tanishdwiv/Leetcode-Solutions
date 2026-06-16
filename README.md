@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0392-is-subsequence) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Backtracking
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Counting
