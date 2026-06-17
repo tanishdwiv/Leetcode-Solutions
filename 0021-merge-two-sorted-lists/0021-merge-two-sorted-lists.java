@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-       // ListNode Node=new ListNode(0);
+       
         ListNode dummy= new ListNode();
         ListNode curr=dummy;
         while(list1!=null && list2!=null){
