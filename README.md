@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0062-unique-paths) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0050-powx-n) |
