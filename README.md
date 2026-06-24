@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0778-reorganize-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0778-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0844-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0886-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0844-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
