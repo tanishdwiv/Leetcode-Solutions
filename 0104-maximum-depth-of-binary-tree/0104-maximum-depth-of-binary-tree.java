@@ -33,11 +33,11 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            if(!queue.isEmpty()){
+           
                 level++;
-            }
+            
         }
-        return (level+1);
+        return (level);
         
     }
 }
