@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
