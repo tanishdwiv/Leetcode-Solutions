@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0593-valid-square) |
 | [0856-consecutive-numbers-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Graph
