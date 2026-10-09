@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0917-boats-to-save-people) |
+| [0931-minimum-falling-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0965-unique-email-addresses](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0965-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/tanishdwiv/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishdwiv/DSA-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Combinatorics
 |  |
